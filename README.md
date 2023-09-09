@@ -35,5 +35,5 @@ Este projeto demonstra minha capacidade de gerenciar e analisar dados com precis
 
 ## Contato
 
-Se você tiver alguma pergunta ou estiver interessado em saber mais sobre este projeto, fique à vontade para entrar em contato comigo pelo [fla-henrique@hotmail.com](mailto:sfla-henrique@hotmail.com).
+Se você tiver alguma pergunta ou estiver interessado em saber mais sobre este projeto, fique à vontade para entrar em contato comigo pelo e-mail [fla-henrique@hotmail.com](mailto:sfla-henrique@hotmail.com).
 
