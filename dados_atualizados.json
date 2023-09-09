@@ -1,0 +1,2002 @@
+[
+    {
+        "Posição": "1",
+        "País (ou território dependente)": "Índia",
+        "Estimativa da ONU": 1429921746,
+        "Data": 2023,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 18.11
+    },
+    {
+        "Posição": "2",
+        "País (ou território dependente)": "China",
+        "Estimativa da ONU": 1426391281,
+        "Data": 2023,
+        "Estimativa Oficial": "Censo oficial",
+        "Percentual da ONU": 18.07
+    },
+    {
+        "Posição": "3",
+        "País (ou território dependente)": "Estados Unidos",
+        "Estimativa da ONU": 339987103,
+        "Data": 2023,
+        "Estimativa Oficial": "Censo oficial",
+        "Percentual da ONU": 4.31
+    },
+    {
+        "Posição": "4",
+        "País (ou território dependente)": "Indonésia",
+        "Estimativa da ONU": 277184719,
+        "Data": 2023,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 3.51
+    },
+    {
+        "Posição": "5",
+        "País (ou território dependente)": "Paquistão",
+        "Estimativa da ONU": 240215932,
+        "Data": 2023,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 3.04
+    },
+    {
+        "Posição": "6",
+        "País (ou território dependente)": "Nigéria",
+        "Estimativa da ONU": 223899057,
+        "Data": 2023,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 2.84
+    },
+    {
+        "Posição": "7",
+        "País (ou território dependente)": "Brasil",
+        "Estimativa da ONU": 203062512,
+        "Data": 2022,
+        "Estimativa Oficial": "Censo oficial",
+        "Percentual da ONU": 2.57
+    },
+    {
+        "Posição": "8",
+        "País (ou território dependente)": "Bangladesh",
+        "Estimativa da ONU": 172452382,
+        "Data": 2023,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 2.18
+    },
+    {
+        "Posição": "9",
+        "País (ou território dependente)": "Rússia",
+        "Estimativa da ONU": 148221749,
+        "Data": 2023,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 1.88
+    },
+    {
+        "Posição": "10",
+        "País (ou território dependente)": "México",
+        "Estimativa da ONU": 134127189,
+        "Data": 2023,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 1.7
+    },
+    {
+        "Posição": "11",
+        "País (ou território dependente)": "Etiópia",
+        "Estimativa da ONU": 125092825,
+        "Data": 2023,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 1.58
+    },
+    {
+        "Posição": "12",
+        "País (ou território dependente)": "Japão",
+        "Estimativa da ONU": 124127899,
+        "Data": 2023,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 1.57
+    },
+    {
+        "Posição": "13",
+        "País (ou território dependente)": "Filipinas",
+        "Estimativa da ONU": 109581078,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 1.39
+    },
+    {
+        "Posição": "14",
+        "País (ou território dependente)": "Egito",
+        "Estimativa da ONU": 102334404,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 1.3
+    },
+    {
+        "Posição": "15",
+        "País (ou território dependente)": "Vietname",
+        "Estimativa da ONU": 97338579,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 1.23
+    },
+    {
+        "Posição": "16",
+        "País (ou território dependente)": "República Democrática do Congo",
+        "Estimativa da ONU": 89561403,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 1.13
+    },
+    {
+        "Posição": "17",
+        "País (ou território dependente)": "Turquia",
+        "Estimativa da ONU": 84339067,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 1.07
+    },
+    {
+        "Posição": "18",
+        "País (ou território dependente)": "Irã",
+        "Estimativa da ONU": 83992949,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 1.06
+    },
+    {
+        "Posição": "19",
+        "País (ou território dependente)": "Alemanha",
+        "Estimativa da ONU": 83783942,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 1.06
+    },
+    {
+        "Posição": "20",
+        "País (ou território dependente)": "Tailândia",
+        "Estimativa da ONU": 69799978,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.88
+    },
+    {
+        "Posição": "21",
+        "País (ou território dependente)": "Reino Unido",
+        "Estimativa da ONU": 67886011,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.86
+    },
+    {
+        "Posição": "22",
+        "País (ou território dependente)": "França",
+        "Estimativa da ONU": 65273511,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.83
+    },
+    {
+        "Posição": "23",
+        "País (ou território dependente)": "Itália",
+        "Estimativa da ONU": 60461826,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.77
+    },
+    {
+        "Posição": "24",
+        "País (ou território dependente)": "Tanzânia",
+        "Estimativa da ONU": 59734218,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.76
+    },
+    {
+        "Posição": "25",
+        "País (ou território dependente)": "África do Sul",
+        "Estimativa da ONU": 59308690,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.75
+    },
+    {
+        "Posição": "26",
+        "País (ou território dependente)": "Myanmar",
+        "Estimativa da ONU": 54409800,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.69
+    },
+    {
+        "Posição": "27",
+        "País (ou território dependente)": "Quénia",
+        "Estimativa da ONU": 53771296,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.68
+    },
+    {
+        "Posição": "28",
+        "País (ou território dependente)": "Coreia do Sul",
+        "Estimativa da ONU": 51269185,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.65
+    },
+    {
+        "Posição": "29",
+        "País (ou território dependente)": "Colômbia",
+        "Estimativa da ONU": 50882891,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.64
+    },
+    {
+        "Posição": "30",
+        "País (ou território dependente)": "Espanha",
+        "Estimativa da ONU": 46754778,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.59
+    },
+    {
+        "Posição": "31",
+        "País (ou território dependente)": "Uganda",
+        "Estimativa da ONU": 45741007,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.58
+    },
+    {
+        "Posição": "32",
+        "País (ou território dependente)": "Argentina",
+        "Estimativa da ONU": 45195774,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.57
+    },
+    {
+        "Posição": "33",
+        "País (ou território dependente)": "Argélia",
+        "Estimativa da ONU": 43851044,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.56
+    },
+    {
+        "Posição": "34",
+        "País (ou território dependente)": "Sudão",
+        "Estimativa da ONU": 43849260,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.56
+    },
+    {
+        "Posição": "35",
+        "País (ou território dependente)": "Ucrânia",
+        "Estimativa da ONU": 43733762,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.55
+    },
+    {
+        "Posição": "36",
+        "País (ou território dependente)": "Iraque",
+        "Estimativa da ONU": 40222493,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.51
+    },
+    {
+        "Posição": "37",
+        "País (ou território dependente)": "Afeganistão",
+        "Estimativa da ONU": 38928346,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.49
+    },
+    {
+        "Posição": "38",
+        "País (ou território dependente)": "Polónia",
+        "Estimativa da ONU": 37846611,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.48
+    },
+    {
+        "Posição": "39",
+        "País (ou território dependente)": "Canadá",
+        "Estimativa da ONU": 37742154,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.48
+    },
+    {
+        "Posição": "40",
+        "País (ou território dependente)": "Marrocos",
+        "Estimativa da ONU": 36910560,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.47
+    },
+    {
+        "Posição": "41",
+        "País (ou território dependente)": "Arábia Saudita",
+        "Estimativa da ONU": 34813871,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.44
+    },
+    {
+        "Posição": "42",
+        "País (ou território dependente)": "Uzbequistão",
+        "Estimativa da ONU": 33469203,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.42
+    },
+    {
+        "Posição": "43",
+        "País (ou território dependente)": "Peru",
+        "Estimativa da ONU": 32971854,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.42
+    },
+    {
+        "Posição": "44",
+        "País (ou território dependente)": "Angola",
+        "Estimativa da ONU": 32866272,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.42
+    },
+    {
+        "Posição": "45",
+        "País (ou território dependente)": "Malásia",
+        "Estimativa da ONU": 32365999,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.41
+    },
+    {
+        "Posição": "46",
+        "País (ou território dependente)": "Moçambique",
+        "Estimativa da ONU": 31255435,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.4
+    },
+    {
+        "Posição": "47",
+        "País (ou território dependente)": "Gana",
+        "Estimativa da ONU": 31072940,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.39
+    },
+    {
+        "Posição": "48",
+        "País (ou território dependente)": "Iémen",
+        "Estimativa da ONU": 29825968,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.38
+    },
+    {
+        "Posição": "49",
+        "País (ou território dependente)": "Nepal",
+        "Estimativa da ONU": 29136808,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.37
+    },
+    {
+        "Posição": "50",
+        "País (ou território dependente)": "Venezuela",
+        "Estimativa da ONU": 28435940,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.36
+    },
+    {
+        "Posição": "51",
+        "País (ou território dependente)": "Madagascar",
+        "Estimativa da ONU": 27691018,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.35
+    },
+    {
+        "Posição": "52",
+        "País (ou território dependente)": "Camarões",
+        "Estimativa da ONU": 26545864,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.34
+    },
+    {
+        "Posição": "53",
+        "País (ou território dependente)": "Costa do Marfim",
+        "Estimativa da ONU": 26378274,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.33
+    },
+    {
+        "Posição": "54",
+        "País (ou território dependente)": "Coreia do Norte",
+        "Estimativa da ONU": 25778816,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.33
+    },
+    {
+        "Posição": "55",
+        "País (ou território dependente)": "Austrália",
+        "Estimativa da ONU": 25499884,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.32
+    },
+    {
+        "Posição": "56",
+        "País (ou território dependente)": "Níger",
+        "Estimativa da ONU": 24206644,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.31
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Taiwan",
+        "Estimativa da ONU": 23816775,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.3
+    },
+    {
+        "Posição": "57",
+        "País (ou território dependente)": "Sri Lanka",
+        "Estimativa da ONU": 21413249,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.27
+    },
+    {
+        "Posição": "58",
+        "País (ou território dependente)": "Burquina Fasso",
+        "Estimativa da ONU": 20903273,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.26
+    },
+    {
+        "Posição": "59",
+        "País (ou território dependente)": "Mali",
+        "Estimativa da ONU": 20250833,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.26
+    },
+    {
+        "Posição": "60",
+        "País (ou território dependente)": "Roménia",
+        "Estimativa da ONU": 19237691,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.24
+    },
+    {
+        "Posição": "61",
+        "País (ou território dependente)": "Malawi",
+        "Estimativa da ONU": 19129952,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.24
+    },
+    {
+        "Posição": "62",
+        "País (ou território dependente)": "Chile",
+        "Estimativa da ONU": 19116201,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.24
+    },
+    {
+        "Posição": "63",
+        "País (ou território dependente)": "Cazaquistão",
+        "Estimativa da ONU": 18776707,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.24
+    },
+    {
+        "Posição": "64",
+        "País (ou território dependente)": "Zâmbia",
+        "Estimativa da ONU": 18383955,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.23
+    },
+    {
+        "Posição": "65",
+        "País (ou território dependente)": "Guatemala",
+        "Estimativa da ONU": 17915568,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.23
+    },
+    {
+        "Posição": "66",
+        "País (ou território dependente)": "Equador",
+        "Estimativa da ONU": 17643054,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.22
+    },
+    {
+        "Posição": "67",
+        "País (ou território dependente)": "Síria",
+        "Estimativa da ONU": 17500657,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.22
+    },
+    {
+        "Posição": "68",
+        "País (ou território dependente)": "Países Baixos",
+        "Estimativa da ONU": 17134872,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.22
+    },
+    {
+        "Posição": "69",
+        "País (ou território dependente)": "Senegal",
+        "Estimativa da ONU": 16743927,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.21
+    },
+    {
+        "Posição": "70",
+        "País (ou território dependente)": "Camboja",
+        "Estimativa da ONU": 16718965,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.21
+    },
+    {
+        "Posição": "71",
+        "País (ou território dependente)": "Chade",
+        "Estimativa da ONU": 16425864,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.21
+    },
+    {
+        "Posição": "72",
+        "País (ou território dependente)": "Somália",
+        "Estimativa da ONU": 15893222,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.2
+    },
+    {
+        "Posição": "73",
+        "País (ou território dependente)": "Zimbabwe",
+        "Estimativa da ONU": 14862924,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.19
+    },
+    {
+        "Posição": "74",
+        "País (ou território dependente)": "Guiné",
+        "Estimativa da ONU": 13132795,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.17
+    },
+    {
+        "Posição": "75",
+        "País (ou território dependente)": "Ruanda",
+        "Estimativa da ONU": 12952218,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.16
+    },
+    {
+        "Posição": "76",
+        "País (ou território dependente)": "Benim",
+        "Estimativa da ONU": 12123000,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.15
+    },
+    {
+        "Posição": "77",
+        "País (ou território dependente)": "Burundi",
+        "Estimativa da ONU": 11890784,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.15
+    },
+    {
+        "Posição": "78",
+        "País (ou território dependente)": "Tunísia",
+        "Estimativa da ONU": 11818619,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.15
+    },
+    {
+        "Posição": "79",
+        "País (ou território dependente)": "Bolívia",
+        "Estimativa da ONU": 11673021,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.15
+    },
+    {
+        "Posição": "80",
+        "País (ou território dependente)": "Bélgica",
+        "Estimativa da ONU": 11589623,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.15
+    },
+    {
+        "Posição": "81",
+        "País (ou território dependente)": "Haiti",
+        "Estimativa da ONU": 11402528,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.14
+    },
+    {
+        "Posição": "82",
+        "País (ou território dependente)": "Cuba",
+        "Estimativa da ONU": 11326616,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.14
+    },
+    {
+        "Posição": "83",
+        "País (ou território dependente)": "Sudão do Sul",
+        "Estimativa da ONU": 11193725,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.14
+    },
+    {
+        "Posição": "84",
+        "País (ou território dependente)": "República Dominicana",
+        "Estimativa da ONU": 10847910,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.14
+    },
+    {
+        "Posição": "85",
+        "País (ou território dependente)": "Chéquia",
+        "Estimativa da ONU": 10708981,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.14
+    },
+    {
+        "Posição": "86",
+        "País (ou território dependente)": "Grécia",
+        "Estimativa da ONU": 10423054,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.13
+    },
+    {
+        "Posição": "87",
+        "País (ou território dependente)": "Portugal",
+        "Estimativa da ONU": 10344802,
+        "Data": 2021,
+        "Estimativa Oficial": "Censo oficial",
+        "Percentual da ONU": 0.13
+    },
+    {
+        "Posição": "88",
+        "País (ou território dependente)": "Jordânia",
+        "Estimativa da ONU": 10203134,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.13
+    },
+    {
+        "Posição": "89",
+        "País (ou território dependente)": "Azerbaijão",
+        "Estimativa da ONU": 10139177,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.13
+    },
+    {
+        "Posição": "90",
+        "País (ou território dependente)": "Suécia",
+        "Estimativa da ONU": 10099265,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.13
+    },
+    {
+        "Posição": "91",
+        "País (ou território dependente)": "Honduras",
+        "Estimativa da ONU": 9904607,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.13
+    },
+    {
+        "Posição": "92",
+        "País (ou território dependente)": "Emirados Árabes Unidos",
+        "Estimativa da ONU": 9890402,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.13
+    },
+    {
+        "Posição": "93",
+        "País (ou território dependente)": "Hungria",
+        "Estimativa da ONU": 9660351,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.12
+    },
+    {
+        "Posição": "94",
+        "País (ou território dependente)": "Tajiquistão",
+        "Estimativa da ONU": 9537645,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.12
+    },
+    {
+        "Posição": "95",
+        "País (ou território dependente)": "Bielorrússia",
+        "Estimativa da ONU": 9449323,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.12
+    },
+    {
+        "Posição": "96",
+        "País (ou território dependente)": "Áustria",
+        "Estimativa da ONU": 9006398,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.11
+    },
+    {
+        "Posição": "97",
+        "País (ou território dependente)": "Papua-Nova Guiné",
+        "Estimativa da ONU": 8947024,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.11
+    },
+    {
+        "Posição": "98",
+        "País (ou território dependente)": "Israel",
+        "Estimativa da ONU": 8655535,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.11
+    },
+    {
+        "Posição": "99",
+        "País (ou território dependente)": "Suíça",
+        "Estimativa da ONU": 8654622,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.11
+    },
+    {
+        "Posição": "100",
+        "País (ou território dependente)": "Togo",
+        "Estimativa da ONU": 8278724,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.1
+    },
+    {
+        "Posição": "101",
+        "País (ou território dependente)": "Serra Leoa",
+        "Estimativa da ONU": 7976983,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.1
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Hong Kong (China)",
+        "Estimativa da ONU": 7496981,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.09
+    },
+    {
+        "Posição": "102",
+        "País (ou território dependente)": "Laos",
+        "Estimativa da ONU": 7275560,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.09
+    },
+    {
+        "Posição": "103",
+        "País (ou território dependente)": "Paraguai",
+        "Estimativa da ONU": 7132538,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.09
+    },
+    {
+        "Posição": "104",
+        "País (ou território dependente)": "Bulgária",
+        "Estimativa da ONU": 6948445,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.09
+    },
+    {
+        "Posição": "105",
+        "País (ou território dependente)": "Sérvia",
+        "Estimativa da ONU": 6926705,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.09
+    },
+    {
+        "Posição": "106",
+        "País (ou território dependente)": "Líbia",
+        "Estimativa da ONU": 6871292,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.09
+    },
+    {
+        "Posição": "107",
+        "País (ou território dependente)": "Líbano",
+        "Estimativa da ONU": 6825445,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.09
+    },
+    {
+        "Posição": "108",
+        "País (ou território dependente)": "Nicarágua",
+        "Estimativa da ONU": 6624554,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.08
+    },
+    {
+        "Posição": "109",
+        "País (ou território dependente)": "Quirguistão",
+        "Estimativa da ONU": 6524195,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.08
+    },
+    {
+        "Posição": "110",
+        "País (ou território dependente)": "El Salvador",
+        "Estimativa da ONU": 6486205,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.08
+    },
+    {
+        "Posição": "111",
+        "País (ou território dependente)": "Turquemenistão",
+        "Estimativa da ONU": 6031200,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.08
+    },
+    {
+        "Posição": "112",
+        "País (ou território dependente)": "Singapura",
+        "Estimativa da ONU": 5850342,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.07
+    },
+    {
+        "Posição": "113",
+        "País (ou território dependente)": "Dinamarca",
+        "Estimativa da ONU": 5792202,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.07
+    },
+    {
+        "Posição": "114",
+        "País (ou território dependente)": "Finlândia",
+        "Estimativa da ONU": 5540720,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.07
+    },
+    {
+        "Posição": "115",
+        "País (ou território dependente)": "Congo",
+        "Estimativa da ONU": 5518087,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.07
+    },
+    {
+        "Posição": "116",
+        "País (ou território dependente)": "Eslováquia",
+        "Estimativa da ONU": 5459642,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.07
+    },
+    {
+        "Posição": "117",
+        "País (ou território dependente)": "Noruega",
+        "Estimativa da ONU": 5421241,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.07
+    },
+    {
+        "Posição": "118",
+        "País (ou território dependente)": "Omã",
+        "Estimativa da ONU": 5106626,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.06
+    },
+    {
+        "Posição": "119",
+        "País (ou território dependente)": "Palestina",
+        "Estimativa da ONU": 5101414,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.06
+    },
+    {
+        "Posição": "120",
+        "País (ou território dependente)": "Costa Rica",
+        "Estimativa da ONU": 5094118,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.06
+    },
+    {
+        "Posição": "121",
+        "País (ou território dependente)": "Libéria",
+        "Estimativa da ONU": 5057681,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.06
+    },
+    {
+        "Posição": "122",
+        "País (ou território dependente)": "Irlanda",
+        "Estimativa da ONU": 4937786,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.06
+    },
+    {
+        "Posição": "123",
+        "País (ou território dependente)": "República Centro-Africana",
+        "Estimativa da ONU": 4829767,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.06
+    },
+    {
+        "Posição": "124",
+        "País (ou território dependente)": "Nova Zelândia",
+        "Estimativa da ONU": 4822233,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.06
+    },
+    {
+        "Posição": "125",
+        "País (ou território dependente)": "Mauritânia",
+        "Estimativa da ONU": 4649658,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.06
+    },
+    {
+        "Posição": "126",
+        "País (ou território dependente)": "Panamá",
+        "Estimativa da ONU": 4314767,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.05
+    },
+    {
+        "Posição": "127",
+        "País (ou território dependente)": "Kuwait",
+        "Estimativa da ONU": 4270571,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.05
+    },
+    {
+        "Posição": "128",
+        "País (ou território dependente)": "Croácia",
+        "Estimativa da ONU": 4105267,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.05
+    },
+    {
+        "Posição": "129",
+        "País (ou território dependente)": "Geórgia",
+        "Estimativa da ONU": 3989167,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.05
+    },
+    {
+        "Posição": "130",
+        "País (ou território dependente)": "Eritreia",
+        "Estimativa da ONU": 3546421,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.04
+    },
+    {
+        "Posição": "131",
+        "País (ou território dependente)": "Uruguai",
+        "Estimativa da ONU": 3473730,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.04
+    },
+    {
+        "Posição": "132",
+        "País (ou território dependente)": "Bósnia e Herzegovina",
+        "Estimativa da ONU": 3280819,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.04
+    },
+    {
+        "Posição": "133",
+        "País (ou território dependente)": "Mongólia",
+        "Estimativa da ONU": 3278290,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.04
+    },
+    {
+        "Posição": "134",
+        "País (ou território dependente)": "Arménia",
+        "Estimativa da ONU": 2963243,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.04
+    },
+    {
+        "Posição": "135",
+        "País (ou território dependente)": "Jamaica",
+        "Estimativa da ONU": 2961167,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.04
+    },
+    {
+        "Posição": "136",
+        "País (ou território dependente)": "Catar",
+        "Estimativa da ONU": 2881053,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.04
+    },
+    {
+        "Posição": "137",
+        "País (ou território dependente)": "Albânia",
+        "Estimativa da ONU": 2877797,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.04
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Porto Rico (Estados Unidos)",
+        "Estimativa da ONU": 2860853,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.04
+    },
+    {
+        "Posição": "138",
+        "País (ou território dependente)": "Lituânia",
+        "Estimativa da ONU": 2722289,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.03
+    },
+    {
+        "Posição": "139",
+        "País (ou território dependente)": "Moldávia",
+        "Estimativa da ONU": 2640438,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.03
+    },
+    {
+        "Posição": "140",
+        "País (ou território dependente)": "Namíbia",
+        "Estimativa da ONU": 2540905,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.03
+    },
+    {
+        "Posição": "141",
+        "País (ou território dependente)": "Gâmbia",
+        "Estimativa da ONU": 2416668,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.03
+    },
+    {
+        "Posição": "142",
+        "País (ou território dependente)": "Botswana",
+        "Estimativa da ONU": 2351627,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.03
+    },
+    {
+        "Posição": "143",
+        "País (ou território dependente)": "Gabão",
+        "Estimativa da ONU": 2225734,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.03
+    },
+    {
+        "Posição": "144",
+        "País (ou território dependente)": "Lesoto",
+        "Estimativa da ONU": 2142249,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.03
+    },
+    {
+        "Posição": "145",
+        "País (ou território dependente)": "Macedônia do Norte",
+        "Estimativa da ONU": 2083374,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.03
+    },
+    {
+        "Posição": "146",
+        "País (ou território dependente)": "Eslovénia",
+        "Estimativa da ONU": 2078938,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.03
+    },
+    {
+        "Posição": "147",
+        "País (ou território dependente)": "Guiné-Bissau",
+        "Estimativa da ONU": 1968001,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.02
+    },
+    {
+        "Posição": "148",
+        "País (ou território dependente)": "Letónia",
+        "Estimativa da ONU": 1886198,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.02
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Kosovo",
+        "Estimativa da ONU": 1795666,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.02
+    },
+    {
+        "Posição": "149",
+        "País (ou território dependente)": "Bahrein",
+        "Estimativa da ONU": 1701575,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.02
+    },
+    {
+        "Posição": "150",
+        "País (ou território dependente)": "Guiné Equatorial",
+        "Estimativa da ONU": 1402985,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.02
+    },
+    {
+        "Posição": "151",
+        "País (ou território dependente)": "Trinidad e Tobago",
+        "Estimativa da ONU": 1399488,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.02
+    },
+    {
+        "Posição": "152",
+        "País (ou território dependente)": "Estónia",
+        "Estimativa da ONU": 1326335,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.02
+    },
+    {
+        "Posição": "153",
+        "País (ou território dependente)": "Timor-Leste",
+        "Estimativa da ONU": 1318445,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.02
+    },
+    {
+        "Posição": "154",
+        "País (ou território dependente)": "Maurícia",
+        "Estimativa da ONU": 1271768,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.02
+    },
+    {
+        "Posição": "155",
+        "País (ou território dependente)": "Eswatini",
+        "Estimativa da ONU": 1160164,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.01
+    },
+    {
+        "Posição": "156",
+        "País (ou território dependente)": "Djibouti",
+        "Estimativa da ONU": 988000,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.01
+    },
+    {
+        "Posição": "157",
+        "País (ou território dependente)": "Chipre",
+        "Estimativa da ONU": 900432,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.01
+    },
+    {
+        "Posição": "158",
+        "País (ou território dependente)": "Fiji",
+        "Estimativa da ONU": 896445,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.01
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Reunião (França)",
+        "Estimativa da ONU": 895312,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa Oficial",
+        "Percentual da ONU": 0.01
+    },
+    {
+        "Posição": "159",
+        "País (ou território dependente)": "Comores",
+        "Estimativa da ONU": 869601,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.01
+    },
+    {
+        "Posição": "160",
+        "País (ou território dependente)": "Guiana",
+        "Estimativa da ONU": 786552,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.01
+    },
+    {
+        "Posição": "161",
+        "País (ou território dependente)": "Butão",
+        "Estimativa da ONU": 771608,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.01
+    },
+    {
+        "Posição": "162",
+        "País (ou território dependente)": "Ilhas Salomão",
+        "Estimativa da ONU": 686884,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.01
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Macau (China)",
+        "Estimativa da ONU": 649335,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.01
+    },
+    {
+        "Posição": "163",
+        "País (ou território dependente)": "Montenegro",
+        "Estimativa da ONU": 649335,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.01
+    },
+    {
+        "Posição": "164",
+        "País (ou território dependente)": "Luxemburgo",
+        "Estimativa da ONU": 625978,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.01
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Saara Ocidental (Marrocos)",
+        "Estimativa da ONU": 597339,
+        "Data": 2019,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.01
+    },
+    {
+        "Posição": "165",
+        "País (ou território dependente)": "Suriname",
+        "Estimativa da ONU": 586632,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.01
+    },
+    {
+        "Posição": "166",
+        "País (ou território dependente)": "Cabo Verde",
+        "Estimativa da ONU": 555987,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.01
+    },
+    {
+        "Posição": "167",
+        "País (ou território dependente)": "Maldivas",
+        "Estimativa da ONU": 540544,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.01
+    },
+    {
+        "Posição": "168",
+        "País (ou território dependente)": "Malta",
+        "Estimativa da ONU": 441543,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.01
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Transnístria (Moldávia)",
+        "Estimativa da ONU": 469000,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.01
+    },
+    {
+        "Posição": "169",
+        "País (ou território dependente)": "Brunei",
+        "Estimativa da ONU": 437479,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.01
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Guadalupe (França)",
+        "Estimativa da ONU": 400124,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa Oficial",
+        "Percentual da ONU": 0.01
+    },
+    {
+        "Posição": "170",
+        "País (ou território dependente)": "Belize",
+        "Estimativa da ONU": 397628,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.01
+    },
+    {
+        "Posição": "171",
+        "País (ou território dependente)": "Bahamas",
+        "Estimativa da ONU": 393244,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Martinica (França)",
+        "Estimativa da ONU": 375265,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa Oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "República Turca de Chipre do Norte (Chipre)",
+        "Estimativa da ONU": 351965,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "172",
+        "País (ou território dependente)": "Islândia",
+        "Estimativa da ONU": 341243,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "173",
+        "País (ou território dependente)": "Vanuatu",
+        "Estimativa da ONU": 307145,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Guiana Francesa (França)",
+        "Estimativa da ONU": 298682,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "174",
+        "País (ou território dependente)": "Barbados",
+        "Estimativa da ONU": 287375,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Nova Caledônia (França)",
+        "Estimativa da ONU": 285498,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Polinésia Francesa (França)",
+        "Estimativa da ONU": 280908,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Mayotte (França)",
+        "Estimativa da ONU": 272815,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Abecásia (Geórgia)",
+        "Estimativa da ONU": 245424,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "175",
+        "País (ou território dependente)": "São Tomé e Príncipe",
+        "Estimativa da ONU": 219159,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "176",
+        "País (ou território dependente)": "Samoa",
+        "Estimativa da ONU": 198414,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "177",
+        "País (ou território dependente)": "Santa Lúcia",
+        "Estimativa da ONU": 183627,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Guam (Estados Unidos)",
+        "Estimativa da ONU": 168775,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Curaçau (Países Baixos)",
+        "Estimativa da ONU": 164093,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "178",
+        "País (ou território dependente)": "Kiribati",
+        "Estimativa da ONU": 119449,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "179",
+        "País (ou território dependente)": "Estados Federados da Micronésia",
+        "Estimativa da ONU": 114419,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "180",
+        "País (ou território dependente)": "Granada",
+        "Estimativa da ONU": 112523,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "181",
+        "País (ou território dependente)": "São Vicente e Granadinas",
+        "Estimativa da ONU": 110940,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Jersey (Reino Unido)",
+        "Estimativa da ONU": 107800,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Aruba (Países Baixos)",
+        "Estimativa da ONU": 106766,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "182",
+        "País (ou território dependente)": "Tonga",
+        "Estimativa da ONU": 105695,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "U.S. Ilhas Virgens (Estados Unidos)",
+        "Estimativa da ONU": 104425,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "183",
+        "País (ou território dependente)": "Antígua e Barbuda",
+        "Estimativa da ONU": 101038,
+        "Data": 2023,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "184",
+        "País (ou território dependente)": "Seicheles",
+        "Estimativa da ONU": 100499,
+        "Data": 2023,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Ilha de Man (Reino Unido)",
+        "Estimativa da ONU": 85033,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "185",
+        "País (ou território dependente)": "Andorra",
+        "Estimativa da ONU": 78097,
+        "Data": 2023,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "186",
+        "País (ou território dependente)": "Domínica",
+        "Estimativa da ONU": 72433,
+        "Data": 2023,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Ilhas Cayman (Reino Unido)",
+        "Estimativa da ONU": 65722,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Guernsey (Reino Unido)",
+        "Estimativa da ONU": 63155,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "187",
+        "País (ou território dependente)": "Ilhas Marshall",
+        "Estimativa da ONU": 63098,
+        "Data": 2023,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "-",
+        "País (ou território dependente)": "Bermudas (Reino Unido)",
+        "Estimativa da ONU": 62278,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Marianas Setentrionais (Estados Unidos)",
+        "Estimativa da ONU": 57559,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Ossétia do Sul (Geórgia)",
+        "Estimativa da ONU": 57095,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Gronelândia (Dinamarca)",
+        "Estimativa da ONU": 56770,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Samoa Americana (Estados Unidos)",
+        "Estimativa da ONU": 55191,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "188",
+        "País (ou território dependente)": "São Cristóvão e Nevis",
+        "Estimativa da ONU": 54543,
+        "Data": 2023,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Ilhas Faroe (Dinamarca)",
+        "Estimativa da ONU": 48863,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "São Martinho (Países Baixos)",
+        "Estimativa da ONU": 42876,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "189",
+        "País (ou território dependente)": "Mónaco",
+        "Estimativa da ONU": 38939,
+        "Data": 2023,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Ilhas Turks e Caicos (Reino Unido)",
+        "Estimativa da ONU": 38717,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "190",
+        "País (ou território dependente)": "Liechtenstein",
+        "Estimativa da ONU": 38949,
+        "Data": 2023,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "-",
+        "País (ou território dependente)": "São Martinho (França)",
+        "Estimativa da ONU": 38666,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "191",
+        "País (ou território dependente)": "San Marino",
+        "Estimativa da ONU": 35145,
+        "Data": 2023,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Gibraltar (Reino Unido)",
+        "Estimativa da ONU": 33691,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Ilhas Virgens Britânicas (Reino Unido)",
+        "Estimativa da ONU": 30231,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Bonaire (Países Baixos)",
+        "Estimativa da ONU": 20915,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "192",
+        "País (ou território dependente)": "Palau",
+        "Estimativa da ONU": 18276,
+        "Data": 2023,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Ilhas Cook",
+        "Estimativa da ONU": 17564,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Anguila (Reino Unido)",
+        "Estimativa da ONU": 15003,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "193",
+        "País (ou território dependente)": "Tuvalu",
+        "Estimativa da ONU": 12012,
+        "Data": 2023,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Wallis e Futuna (França)",
+        "Estimativa da ONU": 11239,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "194",
+        "País (ou território dependente)": "Nauru",
+        "Estimativa da ONU": 11030,
+        "Data": 2023,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "São Bartolomeu (França)",
+        "Estimativa da ONU": 9877,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "São Pedro e Miquelão (França)",
+        "Estimativa da ONU": 6008,
+        "Data": 2016,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Montserrat (Reino Unido)",
+        "Estimativa da ONU": 4992,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Santa Helena (território) do Reino Unido)",
+        "Estimativa da ONU": 4889,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Ilhas Malvinas (Reino Unido)",
+        "Estimativa da ONU": 3480,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Santo Eustáquio (Países Baixos)",
+        "Estimativa da ONU": 3139,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa Oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Território Britânico do Oceano Índico (UK)",
+        "Estimativa da ONU": 3000,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Ilha Christmas (Austrália)",
+        "Estimativa da ONU": 1996,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Niue",
+        "Estimativa da ONU": 1626,
+        "Data": 2020,
+        "Estimativa Oficial": "CIA World Factbook",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Saba (Países Baixos)",
+        "Estimativa da ONU": 1933,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Ilha Norfolk (Austrália)",
+        "Estimativa da ONU": 1734,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Tokelau (NZ)",
+        "Estimativa da ONU": 1357,
+        "Data": 2020,
+        "Estimativa Oficial": "Final Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Ilha de Ascensão (Reino Unido)",
+        "Estimativa da ONU": 806,
+        "Data": 2021,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "195",
+        "País (ou território dependente)": "Vaticano",
+        "Estimativa da ONU": 801,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Ilhas Cocos (Keeling) (Austrália)",
+        "Estimativa da ONU": 573,
+        "Data": 2020,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Tristão da Cunha (Reino Unido)",
+        "Estimativa da ONU": 241,
+        "Data": 2022,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    },
+    {
+        "Posição": "–",
+        "País (ou território dependente)": "Ilhas Pitcairn (Reino Unido)",
+        "Estimativa da ONU": 40,
+        "Data": 2021,
+        "Estimativa Oficial": "Estimativa oficial",
+        "Percentual da ONU": 0.0
+    }
+]
