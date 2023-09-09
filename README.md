@@ -24,7 +24,7 @@ Para atingir esses objetivos, executei as seguintes etapas:
 
 Este projeto demonstra minha capacidade de gerenciar e analisar dados com precisão, fornecendo informações valiosas para a tomada de decisões estratégicas. A conversão bem-sucedida dos dados da planilha para JSON e a análise abrangente realizada com Python refletem minha habilidade em lidar com tarefas de análise de dados de forma eficiente.
 
-[Link para o arquivo JSON atualizado](link)
+[Link para o arquivo JSON atualizado](https://github.com/FlavioHenrique1/analise-dados-demograficos/blob/main/dados_atualizados.json)
 
 ## Tecnologias Utilizadas
 
