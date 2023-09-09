@@ -28,6 +28,7 @@ Este projeto demonstra minha capacidade de gerenciar e analisar dados com precis
 
 ## Tecnologias Utilizadas
 
+- Power Query
 - Python
 - pandas
 - JSON
